@@ -1,6 +1,7 @@
-# The second git lab
+# The second Git lab
 ## First team member: Joshua Stookey
 ## Second team member: Josh Stookey
-This repository is an example of a C++ project. Die class project. It simulates a die and includes a driver program.
+### Die Project: simulates the rolling of a die with a specified number of
+sides.
 
 
