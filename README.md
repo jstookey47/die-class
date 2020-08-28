@@ -1,2 +1,2 @@
-# The second Git Lab
-## Second team member: <Josh Stookey>
+# Git Lab #2
+## First team member: <Joshua Stookey>
